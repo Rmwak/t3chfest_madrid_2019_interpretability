@@ -1,6 +1,7 @@
 # t3chfest_madrid_2019_interpretability
 
 * [Link to the slides](https://www.slideshare.net/keepler/keepler-understanding-your-own-predictive-models-136332955)
+* [Link to the video (Spanish)](https://www.youtube.com/watch?v=o7OxGzF9hhU)
 
 ## Datasources:
 
